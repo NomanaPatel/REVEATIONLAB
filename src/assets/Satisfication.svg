@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Satisfication</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home---RL1" transform="translate(-1318.000000, -5087.000000)">
+            <g id="Group-11" transform="translate(375.000000, 4830.000000)">
+                <g id="Satisfication" transform="translate(943.000000, 257.000000)">
+                    <rect id="Rectangle-Copy-2" fill="#E95757" opacity="0.100000001" x="0" y="0" width="84" height="84" rx="42"></rect>
+                    <g id="heart" transform="translate(28.560000, 31.080000)" stroke="#E95757" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.52">
+                        <path d="M24.9984,2.0286 C23.6986795,0.728269249 21.9355139,-0.0023002827 20.097,-0.0023002827 C18.2584861,-0.0023002827 16.4953205,0.728269249 15.1956,2.0286 L13.86,3.3642 L12.5244,2.0286 C9.81743152,-0.678368404 5.42856852,-0.678368371 2.72160007,2.02860007 C0.0146316287,4.73556852 0.014631596,9.12443152 2.7216,11.8314 L4.0572,13.167 L13.86,22.9698 L23.6628,13.167 L24.9984,11.8314 C26.2987308,10.5316795 27.0293003,8.76851392 27.0293003,6.93 C27.0293003,5.09148608 26.2987308,3.32832049 24.9984,2.0286 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

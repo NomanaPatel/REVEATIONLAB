@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="85px" viewBox="0 0 85 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Tech Driven</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home---RL1" transform="translate(-917.000000, -5087.000000)">
+            <g id="Group-11" transform="translate(375.000000, 4830.000000)">
+                <g id="Tech-Driven" transform="translate(542.160000, 257.040000)">
+                    <rect id="Rectangle-Copy" fill="#FFD44E" opacity="0.100000001" x="0" y="0" width="84" height="84" rx="42"></rect>
+                    <g id="layers" transform="translate(29.400000, 29.400000)" stroke="#FFC718" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.52">
+                        <polygon id="Path" points="12.6 0 0 6.3 12.6 12.6 25.2 6.3"></polygon>
+                        <polyline id="Path" points="0 18.9 12.6 25.2 25.2 18.9"></polyline>
+                        <polyline id="Path" points="0 12.6 12.6 18.9 25.2 12.6"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

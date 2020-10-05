@@ -1,0 +1,23 @@
+{
+  "name": "ReveationLabSite",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "buefy": "^0.8.20",
+    "bulma": "^0.9.0",
+    "bulma-carousel": "^4.0.4",
+    "gridsome": "^0.7.0",
+    "typeface-rubik": "0.0.72",
+    "vue-carousel": "^0.18.0",
+    "vue-simple-floating-labels": "^1.0.4"
+  },
+  "devDependencies": {
+    "sass": "^1.26.10",
+    "sass-loader": "^9.0.3",
+    "webpack": "^4.44.1"
+  }
+}
