@@ -58,9 +58,10 @@
             </center>
             <br/><br/>
 
-            <div class="scrollmenu">
+            <center>
+            <div class="scrollmenu ourservicecarousel">
                 <nav class="level back">
-                    <h6 class="lavel-item has-text-centered title is-6  ml-6 mt-5 py-3 belowdigital">TOP CLIENTS</h6>
+                    <h6 class="lavel-item has-text-centered title is-6  mt-5 py-3 belowdigital">TOP CLIENTS</h6>
                     <p class="level-item has-text-centered">
                         <g-image src="~/assets/Top-c1.png" hight="100px" width="100px"></g-image>
                     </p>
@@ -95,16 +96,18 @@
                     </p>
                 </nav>
             </div>
+            </center>
             <br/>
-
-            <div class="columns">
-                <div class="column is-10"><h2 class="title is-3 ml-6">Our Core <span class="blueclr"> Services</span>
+           
+                <center>
+                <div class="ourservicecarousel" style="text-align:justify"><h2 class="title is-3 ">Our Core <span class="blueclr"> Services</span>
                 </h2></div>
-                <div class="column is-1 ml-6"><span class="fa fa-chevron-left pt-5 "></span><span
+                </center>
+                <center>
+                <div class="ourservicecarousel" style="text-align:right"><span class="fa fa-chevron-left pt-5 "></span><span
                         class="fa fa-chevron-right pt-5 pl-3"></span></div>
-
-            </div>
-
+                </center>
+              
             <center>
                 <div>
 
@@ -219,12 +222,15 @@
                 </div>
             </center>
 
-
-            <div class="columns">
-                <div class="column is-10"><h2 class="title is-3 py-4 ml-6 ">Our <span class="blueclr"> Work</span></h2>
+           
+          <center>
+               
+                <div  class="ourworkbackground1" ><h2 class="title is-3 py-4">Our <span class="blueclr"> Work</span></h2>
                 </div>
-            </div>
+            </center>
+          
             <center>
+                
                 <div class="ourworkbackground">
 
                     <div class="    is-mobile is-multiline is-centered scrollmenu1  is-inline-flex-desktop">
@@ -294,8 +300,8 @@
                                 </template>
                             </Ourwork>
                         </div>
-
-
+</div>
+                          <div class="    is-mobile is-multiline is-centered scrollmenu1  is-inline-flex-desktop">
                         <div class="column">
                             <Ourwork>
                                 <template v-slot:header>
@@ -366,15 +372,16 @@
                                 </template>
                             </Ourwork>
                         </div>
-
                     </div>
-                </div>
+                    </div>
+               
+                
             </center>
             <br/><br/>
             <div class="columns py-6">
                 <div class="column">
                     <center>
-                    <button class="button is-button-color">dsds</button>
+                   
                     </center>
                     <center>
                         <g-link class="button viewall_btn is-button-text-color">
@@ -384,17 +391,17 @@
                 </div>
             </div>
 
-            <div class="columns">
-                <div class="column is-5">
-                    <div class="title is-3 pt-6 ml-6">Donec facilisis tortor ut augue lacinia, at viverra est semp.
+           <center>
+                <div class="testibackground1">
+                    <div class="title is-3">Donec facilisis tortor ut augue lacinia, at viverra est semp.
                     </div>
                 </div>
-            </div>
+           </center>
             <center>
-                <div class="testibackground">
+                <div class="testibackground" style="padding-top: 18px;">  
 
-                    <div class="scrollmenu1 is-inline-flex-desktop">
-                        <div class="column">
+                    <div class="scrollmenu1 is-inline-flex-desktop pad">
+                        <div class="column ">
                             <CTS>
                                 <template v-slot:header>
                                     <div>
@@ -413,7 +420,7 @@
                                 </template>
                             </CTS>
                         </div>
-                        <div class="column">
+                        <div class="column ">
                             <CTS>
                                 <template v-slot:header>
                                     <div>
@@ -460,7 +467,7 @@
                     <div class="columns">
                         <div class="column ">
                             <div class="mt-6 is-hidden-mobile same">
-                                <div class="ovaltesti">
+                                <div class="ovaltesti overtesti">
                                     <g-image src="~/assets/Oval-testimonial.png" width="380px" height="400px"></g-image>
                                 </div>
                                 <div class="client1">
@@ -484,13 +491,13 @@
                             </div>
 
 
-                            <div class="column">
+                            <div class="column ">
 
                                 <div>
-                                    <g-image class="comma1" src="~/assets/Comma1.svg"></g-image>
+                                    <g-image class="comma1 ucomma" src="~/assets/Comma1.svg"></g-image>
                                 </div>
 
-                                <div class="card cardlayout">
+                                <div class="card cardlayout card-width">
                                     <div class="oneofclient" style="padding:20px;">
                                         Fusce vehicula dolor arcu, sit amet blandit dolor mollis nec. Donec viverra
                                         eleifend la. Fusce vehicula dolor arcu, sit amet blandit dolor mollis nec. Donec
@@ -512,7 +519,7 @@
                                 </div>
 
                                 <div>
-                                    <g-image class="comma2" src="~/assets/Comma2.svg"></g-image>
+                                    <g-image class="comma2 dcomma" src="~/assets/Comma2.svg"></g-image>
                                 </div>
                             </div>
                         </div>
@@ -520,13 +527,16 @@
                     </div>
                 </div>
             </center>
-
-            <div class="haveproj">
-                <div class="title is-3 ">Have a project in mind?</div>
+            
+            <center>
+            <div class="contactusdesignouter" style="text-align:justify">
+                <div class="title-is-new title is-3">Have a project in mind?</div>
                 <div class="title is-6 ">We are located close to Heart of Digital & Technological capital in East
                     Coast.
                 </div>
             </div>
+            </center>
+          
             <center>
                 <div class="contactusdesignouter">
                     <div class="columns">
@@ -536,7 +546,7 @@
                                     <ClientOnly>
                                         <FloatingLabel :config="{label: '',color:{lineColor: '#2444eb'}}">
                                             <input class="py-3 myinput1" placeholder="What's Your Name?"
-                                                   name="sender_name"></input>
+                                                   name="sender_name">
                                         </FloatingLabel>
                                     </ClientOnly>
                                     <div class="columns">
@@ -545,7 +555,7 @@
                                                 <FloatingLabel :config="{label: '',color:{lineColor: '#2444eb'}}">
                                                     <input class="py-3 myinput2"
                                                            placeholder="Drop Email here to know more"
-                                                           name="sender_email" type="email" ></input>
+                                                           name="sender_email" type="email" >
                                                 </FloatingLabel>
                                             </ClientOnly>
                                         </div>
@@ -554,7 +564,7 @@
                                                 <FloatingLabel :config="{label: '',color:{lineColor: '#2444eb'}}">
                                                     <input class="py-3 myinput2"
                                                            placeholder="Do we have your phone number ?"
-                                                           name="sender_phoneno" type="tel" pattern="^[6-9]\d{9}$"></input>
+                                                           name="sender_phoneno" type="tel" pattern="^[6-9]\d{9}$">
                                                 </FloatingLabel>
                                             </ClientOnly>
                                         </div>
@@ -563,14 +573,14 @@
                                         <FloatingLabel :config="{label: '',color:{lineColor: '#2444eb'}}">
                                             <input class="pb-3 myinput1"
                                                    placeholder="Please enter your physical address"
-                                                   name="sender_address"></input>
+                                                   name="sender_address">
                                         </FloatingLabel>
                                     </ClientOnly>
                                     <ClientOnly>
                                         <FloatingLabel :config="{label: '',color:{lineColor: '#2444eb'}}">
                                             <input class="py-3 myinput1"
                                                    placeholder="Write here about your queries"
-                                                   name="sender_query"></input>
+                                                   name="sender_query">
                                         </FloatingLabel>
                                     </ClientOnly>
                                     <button type="submit" class="button my-5 ml-3 submitbtn " style="color:#2444eb;"><strong>SUBMIT</strong>
@@ -640,7 +650,114 @@ export default {
 body{
 overflow-x:hidden;
 }
-@media screen and (max-width: 600px) {
+ 
+@media screen and (max-width: 1100px) {
+    
+.oneofclientimg{
+width:53.6px;
+height:53.6px;
+margin-left:24px;
+float:left;
+}
+.oneofclientname{
+margin-left:13px;
+float:left;
+font-size: 21.5px;
+color: #1C1C1C;
+letter-spacing: 0;
+}
+.oneofclientname1{
+margin-top:0px;
+margin-right:140px;
+font-size: 14.32px;
+color: #B4B4B4;
+letter-spacing: 0;
+}
+    .larrow{
+margin-top:15px;
+float:left;
+margin-left:20px;
+}
+.rarrow{
+ margin-top:15px;
+ float:left;
+ margin-left:5px;
+}
+    .ourworkbackground1
+    {
+        width: 100%;
+        text-align:justify;
+    }
+    .testibackground1
+    {
+         width: 100%;
+        text-align:justify;
+    }
+    .ucomma
+    {
+        margin-right: 290px;
+        width:50px;
+    }
+    .dcomma
+    {
+        width:50px;
+        margin-left: 900px;
+    }
+    
+    .cardlayout{
+       height:290px;
+         width: 35%;
+        margin-left:600px;
+       
+        z-index:1;
+        border: 1px solid #979797;
+        border-radius: 8.4px;
+        }
+    .overtesti
+    {
+        width:230px;
+    }
+    .outertestimonial
+{
+    width:100%;
+}
+    div.scrollmenu1 {
+        width:100%;
+ display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  
+}
+    .testibackground{
+    padding-top:30px;
+    height:375px;
+    width:100%;
+    background-color:rgba(87,123,249,0.1);
+    }
+    
+    .ourservicecarousel {
+    width: 100%;
+    }
+
+    }
+
+
+
+@media screen and (max-width: 1000px) {
+    
+    .ucomma
+    {
+        margin-right: 0px;
+        margin-top: 0px;
+    }
+    .dcomma {
+    margin-top: 0px;
+    margin-left: 0px;
+}
+    .card-width{
+        width: 0%;
+        margin-left:0px;
+    }
   .myinput1 {
     width:335px;
   }
@@ -669,7 +786,7 @@ overflow-x:hidden;
   display:none;
   }
   .clienttext{
-  diaplay:none;
+  display:none;
   }
   .haveproj{
   margin-top:350px;
@@ -688,7 +805,7 @@ position:relative;
 width:56px;
 height:44px;
 float:left;
-position:relative;
+position: relative;
  bottom:15px;
  left:270px;
  z-index:2;
@@ -700,11 +817,6 @@ float:left;
 z-index:1;
 border: 1px solid #979797;
 border-radius: 8.4px;
-}
-.oneofclient{
-text-align:left;
-font-size: 14.32px;
-color: #1C1C1C;
 }
 .oneofclientimg{
 width:53.6px;
@@ -737,18 +849,61 @@ margin-left:20px;
  margin-left:5px;
 }
 .ourservicecarousel{
-width:370px;
+width:100%;
 }
 div.scrollmenu1 {
  display: flex;
   flex-wrap: nowrap;
   overflow-x: auto;
+  
 }
 div.scrollmenu1 div{
   flex: 0 0 auto;
 }
+.ourworkbackground1{
+padding-top:30px;
+width:1200px;
+text-align:justify;
+overflow:hidden;
 }
-@media screen and (min-width: 600px) {
+.ourworkbackground{
+padding-top:30px;
+height:990px;
+width:100%;
+background-color:rgba(87,123,249,0.1);
+overflow:auto;
+}
+.testibackground1{
+padding-top:30px;
+text-align: justify;
+width:100%;
+}
+.contactusdesignouter{
+width:100%;
+}
+.title-is-new
+{
+    width:100%;
+    height:20px;
+    text-align: left;
+    margin-top: 390px;
+    margin-bottom: 10px;
+} 
+.outertestimonial
+{
+    width:100%;
+}
+.testibackground{
+padding-top:30px;
+height:375px;
+width:100%;
+background-color:rgba(87,123,249,0.1);
+}
+}
+
+@media screen and (min-width: 1100px) {
+
+
   .myinput1 {
     width:700px;
   }
@@ -823,13 +978,20 @@ margin-left:-70px;
  margin-left:-40px;
 }
 .ourservicecarousel{
-width:1170px;
+width:1200px;
 }
+
 .ourworkbackground{
 padding-top:30px;
 height:990px;
 width:1200px;
 background-color:rgba(87,123,249,0.1);
+overflow:hidden;
+}
+.ourworkbackground1{
+padding-top:30px;
+width:1200px;
+text-align:justify;
 overflow:hidden;
 }
 .testibackground{
@@ -838,11 +1000,16 @@ height:375px;
 width:1200px;
 background-color:rgba(87,123,249,0.1);
 }
+.testibackground1{
+padding-top:30px;
+text-align: justify;
+width:1200px;
+}
 .contactusdesign{
 width:700px;
 }
 .contactusdesignouter{
-width:1300px;
+width:1200px;
 }
 .outertestimonial{
 width:1300px;
@@ -850,7 +1017,12 @@ width:1300px;
 div.scrollmenu1 {
   display: flex;
   flex-wrap: nowrap;
-  //overflow-x: auto;
+  
+  
+}
+pad
+{
+    padding: 20px;
 }
 div.scrollmenu1 div{
   flex: 0 0 auto;
@@ -860,6 +1032,7 @@ div.scrollmenu1 div{
 div.scrollmenu {
   overflow: auto;
   white-space: nowrap;
+  
 }
 
 div.scrollmenu nav h6{
@@ -878,7 +1051,7 @@ div.scrollmenu nav p{
 
 .viewall_btn{
 width:181.4px;
-hight:40.3px;
+height:40.3px;
 color:#2444eb;
 border: 1px solid #2444EB;
 border-radius: 4.2px;
@@ -896,6 +1069,9 @@ width:100%;
 }
 .blueclr{
 color:#2444EB;
+
+  box-shadow: 0px 8px 6px 5px gray;
+
 }
 .back{
 background-color: #F7FAFF;
@@ -938,7 +1114,7 @@ margin-left:750px;
 }
 .ourworktitle{
 width:307px;
-hight:64px;
+height:64px;
 font-size:26.88px;
 letter-spacing: 0;
 margin-left:30px;
@@ -949,7 +1125,7 @@ text-align: left;
 }
 .ourworkimg{
 width:308px;
-hight:168px;
+height:168px;
 margin-left:30px;
 margin-right:32px;
 margin-top:16px;
@@ -957,7 +1133,7 @@ margin-bottom:0px;
 }
 .ourworktext{
 width:300px;
-hight:81px;
+height:81px;
 margin-left:30px;
 margin-right:40px;
 margin-top:20px;
@@ -966,7 +1142,7 @@ text-align: left;
 }
 .ourworktitle1{
 width:152.1px;
-hight:35.3px;
+height:35.3px;
 margin-left:30px;
 margin-right:187.9px;
 margin-top:30px;
@@ -979,7 +1155,7 @@ letter-spacing: 0;
 }
 .ourworktitle2{
 width:152.1px;
-hight:35.3px;
+height:35.3px;
 margin-left:30px;
 margin-right:187.9px;
 margin-top:30px;
@@ -992,7 +1168,7 @@ letter-spacing: 0;
 }
 .ourworktitle3{
 width:152.1px;
-hight:35.3px;
+height:35.3px;
 margin-left:30px;
 margin-right:187.9px;
 margin-top:30px;
@@ -1005,7 +1181,7 @@ letter-spacing: 0;
 }
 .ourworktitle4{
 width:152.1px;
-hight:35.3px;
+height:35.3px;
 margin-left:30px;
 margin-right:187.9px;
 margin-top:30px;
@@ -1018,7 +1194,7 @@ letter-spacing: 0;
 }
 .ourworktitle5{
 width:152.1px;
-hight:35.3px;
+height:35.3px;
 margin-left:30px;
 margin-right:187.9px;
 margin-top:30px;
@@ -1031,7 +1207,7 @@ letter-spacing: 0;
 }
 .ourworktitle6{
 width:152.1px;
-hight:35.3px;
+height:35.3px;
 margin-left:30px;
 margin-right:187.9px;
 margin-top:30px;
@@ -1049,7 +1225,7 @@ margin-top:34px;
 }
 .ctstitle{
 width:170px;
-hight:32px;
+height:32px;
 margin-left:100px;
 margin-right:100px;
 margin-top:29px;
@@ -1059,7 +1235,7 @@ letter-spacing: 0;
 }
 .ctstext{
 width:299.9px;
-hight:80.6px;
+height:80.6px;
 margin-left:35px;
 margin-right:35.1px;
 margin-top:14px;
