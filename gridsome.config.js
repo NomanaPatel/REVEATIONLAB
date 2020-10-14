@@ -12,5 +12,12 @@ module.exports = {
   sizes:[16]
   }
   },
-  plugins: []
+  plugins: [
+    {
+      use: '@gridsome/plugin-google-analytics',
+      options: {
+        id: 'UA-180447383-1'
+    }
+  }
+  ]
 }
